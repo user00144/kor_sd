@@ -44,7 +44,7 @@ ___
 
 - Data Preprocessing
 
-<img src="https://github.com/user-attachments/assets/81ecd582-0f1c-4cca-adfe-1286065a3502" width=350 />  <img src="https://github.com/user-attachments/assets/154bedf4-1717-4f40-9df7-6392342f0f33" width=400 />
+<img src="https://github.com/user-attachments/assets/ef9a9a70-4f65-4dcb-bf2d-2f0bf7874041" width=350 />  <img src="https://github.com/user-attachments/assets/45546b28-b817-4617-af9c-76990e65614a" width=400 />
 
 ### 2. Korean CLIP Text Encoder
 - With BaseModel([Bingsu/clip-vit-large-patch14-ko](https://huggingface.co/Bingsu/clip-vit-large-patch14-ko)) ...
@@ -53,11 +53,12 @@ ___
 ![image](https://github.com/user-attachments/assets/a4d5e3aa-0169-4a15-8bdc-6f25e408f5ee)
 
 ### 3. Pipeline Design
-![pipeline](https://github.com/user-attachments/assets/e6190342-15ec-4a3e-9279-30a1588e9517)
-
+![362559460-e6190342-15ec-4a3e-9279-30a1588e9517](https://github.com/user-attachments/assets/e8b1b783-08b6-43d4-a19a-758d2895c210)
 
 ### 4. Experiments
-<img src="https://github.com/user-attachments/assets/4db586f4-01b0-4b94-b1b0-32f0452c5706" width=800 />
+<img src="https://github.com/user-attachments/assets/681f58a7-0635-437c-aac3-3d364c0d181e" width=800 />
+
+
 
 ---
 
